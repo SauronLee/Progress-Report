@@ -1,0 +1,48 @@
+09/23 進捗報告　Xiaoran Li
+
+
+[研究テーマ]
+
+🔬【修士論文】今までの知識をまとめ
+
+	タイトル：Towards Cross-lingual Textual Information Isomorphism for Conversational Recommendation System 「仮」
+		【会話型レコメンドシステムのクロスリンガルテキスト情報同形に関する研究】
+
+	問題点：今まで会話型レコメンドシステムに関する研究は一つだけの言語に行った。しかし、単一言語のコーパスには世界の知識が含まれていないです、
+		論文、映画、音楽、ニュース、食べ物など情報を薦める場合、他言語で商品情報をユーザーに知らせることができない。
+
+	解決：教師なし学習方法で意義素を構築して、意義素で多言語に応じる多言語知識ベースを構築して、多言語知識ベースに基づく会話型レコメンドシステムを構築する。
+
+	評価：
+		ー　映画ベンチマーク：日本語[2]；英語[3]；中国語[4]
+		ー　他の分野のベンチマークが探す中です：分野（映画、音楽、ニュース、食べ物）
+			Ps：中国語の推薦対話データ[4]に以上の５個分野を含めている。
+
+
+[今週の実施内容]
+(09/15) 木曜日 ： SLUD95の発表（6時間）
+(09/16) 金曜日 ： 論文[1]といろいろ論文を読む（3時間）
+(09/17) 土曜日 ： バイト
+(09/18) 日曜日 ： バイト
+(09/19) 月曜日 ： 質問応答システムに関するビデオを見る（6時間）
+(09/20) 火曜日 ： 質問応答システムに関するビデオを見る（5時間）
+(09/21) 水曜日 ： 資料を探す（7時間）
+(09/22) 木曜日 ： 資料を探す（6時間）
+
+[今回の実績]
+
+[参考文献]
+[1] Unified conversational recommendation policy learning via graph-based reinforcement learning.　2021.
+	- https://arxiv.org/abs/2105.09710
+
+[2] 児玉貴志, 田中リベカ, 黒橋禎夫: 外部知識に基づく発話生成に向けた日本語映画推薦対話データセットの構築, 言語処理学会第27回年次大会 (NLP 2021) 2021.
+	- https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/B5-3.pdf
+
+[3] Towards Deep Conversational Recommendations 2018
+	- https://arxiv.org/abs/1812.07617
+
+[4] DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation 2021
+	- https://aclanthology.org/2021.emnlp-main.356/
+
+[次回の目標]
+
